@@ -1,23 +1,17 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YeeTone&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hello, world from YeeTone! 👋  
 
-```C
-printf("Hello, world from C!\n");
 ```
-
-```C++
-cout<<"Hello, world from C++!"<<endl;
-```
-
-```C#
-Console.WriteLine("Hello, world from C#!");
-```
-
-```Java
-System.out.println("Hello, world from Java!");
-```
-
-```Python
-print("Hello, world from Python!");
+printf("Hello, world from C!\n");  
+  
+cout<<"Hello, world from C++!"<<endl;  
+  
+Console.WriteLine("Hello, world from C#!");  
+  
+System.out.println("Hello, world from Java!");  
+  
+print("Hello, world from Python!");  
 ```
 
 
