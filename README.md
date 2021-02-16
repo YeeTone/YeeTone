@@ -1,4 +1,4 @@
-### Hello, world! 👋  
+### Hello, world from YeeTone! 👋  
 
 ```C
 printf("Hello, world from C!\n");
