@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=YeeTone" />  
 
 ### Hello, world from YeeTone! 👋  
 
@@ -14,7 +14,6 @@ System.out.println("Hello, world from Java!");
 print("Hello, world from Python!");  
 ```
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YeeTone&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=YeeTone" />  
 
 <!--
 **YeeTone/YeeTone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
