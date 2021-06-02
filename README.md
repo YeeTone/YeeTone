@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=YeeTone" />  
 
-### Happy Birthday to YeeTone!
 
-<!--
 ### Hello, world from YeeTone! 👋  
 ```
 printf("Hello, world from C!\n");  
@@ -14,10 +12,12 @@ Console.WriteLine("Hello, world from C#!");
 System.out.println("Hello, world from Java!");  
   
 print("Hello, world from Python!");  
+  
+raise notice 'Hello, world from SQL!';
 ```
--->
 
-
+<!--
+### Happy Birthday to YeeTone!
 ```
 prinf("Happy birthday to YeeTone from C!\n");
    
@@ -31,6 +31,7 @@ print("Happy birthday to YeeTone from Python!");
    
 raise notice 'Happy birthday to YeeTone from SQL!';
 ```
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YeeTone&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
