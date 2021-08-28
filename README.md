@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=YeeTone" />  
 
 
-### Hello, world from YeeTone! 👋  
+# Hello, world from YeeTone! 👋  
 ```
 printf("Hello, world from C!\n");  
   
