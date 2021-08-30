@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YeeTone?tab=repositories](https://github.com/YeeTone?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.zhihu.com/people/cao-lao-ban-57](https://www.zhihu.com/people/cao-lao-ban-57)
+- 📝 I regularly write articles on [https://www.zhihu.com/people/YeeTone_WANG](https://www.zhihu.com/people/YeeTone_WANG)
 
 - 📫 How to reach me **yitongcool@foxmail.com**
 
