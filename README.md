@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.zhihu.com/people/cao-lao-ban-57](https://www.zhihu.com/people/cao-lao-ban-57)
 
-- 📫 How to reach me **11910104@mail.sustech.edu.cn**
+- 📫 How to reach me **yitongcool@foxmail.com**
 
 - ⚡ This is my first website: **CS102A@SUSTech@Java http://sustechcs102a.xyz/**
 
