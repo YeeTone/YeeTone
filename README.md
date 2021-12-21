@@ -43,10 +43,10 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2022Spring: Student Assistance of CS102A(Introduction of Java Programming)
 
 ## Awards
-- 2019 SUSTech Freshman Scholarship(Second Prize)
-- 2019 SUSTech Student Scholarship(First Prize)
-- 2019 Zhixin Star Scholarship
-- 2020 SUSTech Student Scholarship(First Prize)
-- 2020 Guangdong League Cup English Writing Competition(First Prize)
-- 2020 Zhixin Semester Progress Scholarship
-- 2020 Zhixin Senior Monitor Scholarship
+- 2019 SUSTech Freshman Scholarship, second prize（南科大新生奖学金二等奖）
+- 2019 SUSTech Student Scholarship, first prize（南科大优秀学生奖学金一等奖）
+- 2019 Zhixin Star Scholarship（致新之星奖学金）
+- 2020 SUSTech Student Scholarship, first prize（南科大优秀学生奖学金一等奖）
+- 2020 Guangdong League Cup English Writing Competition, first Prize（广东省联盟杯英语写作比赛省级一等奖）
+- 2020 Zhixin Semester Progress Scholarship（致新学期进步奖）
+- 2020 Zhixin Senior Monitor Scholarship（致新优秀大学长奖）
