@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm YeeTone WANG</h1>
-<h3 align="center">一个喜欢整活，喜欢写东西的码农</h3>
+# Hello, I'm YeeTone WANG, a software code farmer
 
+YeeTone Wang is an undergraduate student at the Department of [CSE](http://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), 
+whose supervisor is [Prof. Yepang LIU](https://yepangliu.github.io/).
+He is a member of [SUSTech Software Quality Lab(SQLab)](https://sqlab-sustech.github.io/index.html).
+His research is mainly focus on Software Engineering and Automated Testing.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeetone&label=Profile%20views&color=0e75b6&style=flat" alt="yeetone" /> </p>
 
 - 🔭 I’m currently working on **WASM VM vulnerability**
@@ -24,3 +27,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeetone&show_icons=true&locale=en" alt="yeetone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeetone&" alt="yeetone" /></p>
+
+## Research Area:
+- Doppler effect in uniformly accelerated motion
+- Detecting webassembly VM vulnerability via fuzz testing
+
+## Work Experience
+- 2019Fall-2020Spring: Public Welfare of Zhixin Communist Youth League
+- 2020Summer: Student Assistance of Zhixin College
+- 2020Fall-2021Spring: Senior Monitor of Zhixin Class 2002
+- 2020Fall: Maintenance of Arch Online Judge System
+- 2021Spring: Student Assistance of CS102A(Introduction of Java Programming)
+- 2021Fall: Student Assistance of CS107(Introduction of Java Programming(H))
+- 2021Fall: Maintenance of [JAnswer System](http://sustechcs102a.xyz/)
+- 2022Spring: Student Assistance of CS102A(Introduction of Java Programming)
+
+## Awards
+- 2019 SUSTech Freshman Scholarship(Second Prize)
+- 2019 SUSTech Student Scholarship(First Prize)
+- 2019 Zhixin Star Scholarship
+- 2020 SUSTech Student Scholarship(First Prize)
+- 2020 Guangdong League Cup English Writing Competition(First Prize)
+- 2020 Zhixin Semester Progress Scholarship
+- 2020 Zhixin Senior Monitor Scholarship
