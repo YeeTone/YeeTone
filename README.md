@@ -29,8 +29,10 @@ His research is mainly focus on Software Engineering and Automated Testing.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeetone&" alt="yeetone" /></p>
 
 ## Research Area:
-- Doppler effect in uniformly accelerated motion
-- Detecting webassembly VM vulnerability via fuzz testing
+- WebAssembly
+- Software Automated Testing
+- JVM and its Implementation
+- Web Browsers
 
 ## Work Experience
 - 2019Fall-2020Spring: Public Welfare of Zhixin Communist Youth League
