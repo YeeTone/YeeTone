@@ -43,6 +43,8 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2021Fall: Student Assistance of CS107(Introduction of Java Programming(H))
 - 2021Fall: Maintenance of [JAnswer System](http://sustechcs102a.xyz/)
 - 2022Spring: Student Assistance of CS102A(Introduction of Java Programming)
+- 2022Fall: Student Assistance of CS205(C/C++ Program Design)
+- 2022Fall: Student Assistance of CS309(OOAD, Object Oriented Analysis Design)
 
 ## Awards
 - 2019 SUSTech Freshman Scholarship, second prize（南科大新生奖学金二等奖）
