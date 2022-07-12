@@ -54,3 +54,5 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2020 Guangdong League Cup English Writing Competition, first Prize（广东省联盟杯英语写作比赛省级一等奖）
 - 2020 Zhixin Semester Progress Scholarship（致新学期进步奖）
 - 2020 Zhixin Senior Monitor Scholarship（致新优秀大学长奖）
+- 2021 Spring CS Excellent Student Assistance（计算机系优秀学生助理）
+- 2021 Fall CS Excellent Student Assistance（计算机系优秀学生助理）
