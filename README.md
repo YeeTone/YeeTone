@@ -45,6 +45,7 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2022Spring: Student Assistance of CS102A(Introduction to Computer Programming A)
 - 2022Fall: Student Assistance of CS205(C/C++ Program Design)
 - 2022Fall: Student Assistance of CS309(OOAD, Object Oriented Analysis Design)
+- 2022Fall: Maintenance of JCoder Online Judge System
 
 ## Personal Project List in SUSTech
 > 2019 Fall
