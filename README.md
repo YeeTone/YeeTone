@@ -83,12 +83,12 @@ His research is mainly focus on Software Engineering and Automated Testing.
 
 
 ## Awards
-- 2019 SUSTech Freshman Scholarship, second prize（南科大新生奖学金二等奖）
-- 2019 SUSTech Student Scholarship, first prize（南科大优秀学生奖学金一等奖）
-- 2019 Zhixin Star Scholarship（致新之星奖学金）
-- 2020 SUSTech Student Scholarship, first prize（南科大优秀学生奖学金一等奖）
-- 2020 Guangdong League Cup English Writing Competition, first Prize（广东省联盟杯英语写作比赛省级一等奖）
-- 2020 Zhixin Semester Progress Scholarship（致新学期进步奖）
-- 2020 Zhixin Senior Monitor Scholarship（致新优秀大学长奖）
-- 2021 Spring CS Excellent Student Assistance（计算机系优秀学生助理）
-- 2021 Fall CS Excellent Student Assistance（计算机系优秀学生助理）
+
+SUSTech Excellent Student Scholarship:
+- 2020: 1st prize
+- 2021: 1st prize
+- 2022: 1st prize
+
+SUSTech Zhixin College Scholarship:
+- 2020: Zhixin Star
+- 2021: Excellent Senior Monitor Prize, Semester Progress Prize
