@@ -47,41 +47,6 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2022Fall: Student Assistance of CS309(OOAD, Object Oriented Analysis Design)
 - 2022Fall: Maintenance of JCoder Online Judge System
 
-## Personal Project List in SUSTech
-> 2019 Fall
-- CS102A Introduction to Computer Programming A
-  - Chinese Chess, 95/100
-> 2020 Fall
-- CS201 Discrete Mathematics
-  - XOR Random Number, 70/100
-- CS205 C/C++ Program Design
-  - Matrix Multiplication, 88/100
-  - CNN by C++, 88/100
-- CS207 Digit Design
-  - Vending Machine by Verilog, 98/100
-> 2021 Spring
-- CS202 Computer Organization
-  - CPU Design by Verilog, 109/100
-- CS307 Database Principle
-  - Database Acceleration, 98/100
-  - Database Interface Implementation, 95/100
-
-> 2021 Fall
-- CS303 Artificial Intelligence
-  - Othello AI Design, 94/100
-  - Path Optimization, 90/100
-  - Model Compression, 100/100
-- CS309 OOAD
-  - Alternative OJ JCoder, 100/100
-> 2022 Spring
-- CS304 Software Engineering
-  - Bug Fixing and Github Using, 99/100
-- CS305 Computer Network
-  - Distributed CDN, 110/100
-- CS306 Data Mining
-  - Taxi Data Virtualization, 94/100
-
-
 ## Awards
 
 SUSTech Excellent Student Scholarship:
