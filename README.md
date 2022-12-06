@@ -55,5 +55,6 @@ SUSTech Excellent Student Scholarship:
 - 2022: 1st prize
 
 SUSTech Zhixin College Scholarship:
-- 2020: Zhixin Star
-- 2021: Excellent Senior Monitor Prize, Semester Progress Prize
+- 2020: Zhixin Star（致新之星）
+- 2021: Excellent Senior Monitor Prize（优秀大学长奖）, Semester Progress Prize（学期进步奖）
+- 2022: Zhixin Star（致新之星）, Semester Progress Prize（学期进步奖）
