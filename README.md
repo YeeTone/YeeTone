@@ -6,13 +6,16 @@ He is a member of [SUSTech Software Quality Lab(SQLab)](https://sqlab-sustech.gi
 His research is mainly focus on Software Engineering and Automated Testing.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeetone&label=Profile%20views&color=0e75b6&style=flat" alt="yeetone" /> </p>
 
-- 🔭 I’m currently working on **WASM VM vulnerability**
-
-- 🌱 I’m currently learning **Design Patterns**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YeeTone?tab=repositories](https://github.com/YeeTone?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.zhihu.com/people/YeeTone_WANG](https://www.zhihu.com/people/YeeTone_WANG)
+- ⚡ I am a bilibili content curators, and I will upload my presentation video irregularly.
+  - [CS103 CNN Research in Skin Disease](https://www.bilibili.com/video/BV1JR4y1k7BP/)
+  - [CS202 Soviet-style CPU](https://www.bilibili.com/video/BV1bB4y1F7Qg/)
+  - [CS205 CNN](https://www.bilibili.com/video/BV1aX4y1M7ga/)
+  - [CS207 Verilog Auto-Selling Machine](https://www.bilibili.com/video/BV1VK4y1P7ap/)
+  - [CS209A Github Visualization](https://www.bilibili.com/video/BV16e4y1L7Uh/)
+  - [CS304 SE->NB!](https://www.bilibili.com/video/BV1EB4y1X7h4/)
+  - CS307
+    - [Database Acceleration](https://www.bilibili.com/video/BV1LA411L7au/)
+    - [Boolean Tree in Database](https://www.bilibili.com/video/BV1Do4y1y7SV/)
 
 - 📫 How to reach me **yitongcool@foxmail.com**
 
