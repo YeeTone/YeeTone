@@ -6,7 +6,7 @@ He is a member of [SUSTech Software Quality Lab(SQLab)](https://sqlab-sustech.gi
 His research is mainly focus on Software Engineering and Automated Testing.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeetone&label=Profile%20views&color=0e75b6&style=flat" alt="yeetone" /> </p>
 
-- ⚡ I am a bilibili content curators, and I will upload my presentation video irregularly.
+- ⚡ I am a bilibili uploader, and I will upload my presentation video irregularly.
   - [CS103 CNN Research in Skin Disease](https://www.bilibili.com/video/BV1JR4y1k7BP/)
   - [CS202 Soviet-style CPU](https://www.bilibili.com/video/BV1bB4y1F7Qg/)
   - [CS205 CNN](https://www.bilibili.com/video/BV1aX4y1M7ga/)
