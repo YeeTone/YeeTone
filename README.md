@@ -39,16 +39,16 @@ His research is mainly focus on Software Engineering and Automated Testing.
 
 ## Work Experience
 - 2019Fall-2020Spring: Public Welfare of Zhixin Communist Youth League
-- 2020Summer: Student Assistance of Zhixin College
+- 2020Summer: Teaching Assistance of Zhixin College
 - 2020Fall-2021Spring: Senior Monitor of Zhixin Class 2002
 - 2020Fall: Maintenance of Arch Online Judge System
-- 2021Spring: Student Assistance of CS102A(Introduction to Computer Programming A)
-- 2021Fall: Student Assistance of CS107(Introduction to Computer Programming A(H))
-- 2021Fall: Maintenance of [JAnswer System](http://sustechcs102a.xyz/)
-- 2022Spring: Student Assistance of CS102A(Introduction to Computer Programming A)
-- 2022Fall: Student Assistance of CS205(C/C++ Program Design)
-- 2022Fall: Student Assistance of CS309(OOAD, Object Oriented Analysis Design)
+- 2021Spring: Teaching Assistance of CS102A(Introduction to Computer Programming A)
+- 2021Fall: Teaching Assistance of CS107(Introduction to Computer Programming A(H))
+- 2022Spring: Teaching Assistance of CS102A(Introduction to Computer Programming A)
+- 2022Fall: Teaching Assistance of CS205(C/C++ Program Design)
+- 2022Fall: Teaching Assistance of CS309(OOAD, Object Oriented Analysis Design)
 - 2022Fall: Maintenance of JCoder Online Judge System
+- 2023Spring：Teaching Assistance of CS304(Software Engineering)
 
 ## Awards
 
