@@ -48,6 +48,7 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2022Fall: Teaching Assistance of CS205(C/C++ Program Design)
 - 2022Fall: Teaching Assistance of CS309(OOAD, Object Oriented Analysis Design)
 - 2022Fall: Maintenance of JCoder Online Judge System
+- 2023Spring: Teaching Assistance of CS109(Introduction to Computer Programming)
 - 2023Spring：Teaching Assistance of CS304(Software Engineering)
 
 ## Awards
