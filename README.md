@@ -49,16 +49,13 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - 2022Fall: Teaching Assistance of CS309(OOAD, Object Oriented Analysis Design)
 - 2022Fall: Maintenance of JCoder Online Judge System
 - 2023Spring: Teaching Assistance of CS109(Introduction to Computer Programming)
-- 2023Spring：Teaching Assistance of CS304(Software Engineering)
+- 2023Spring: Teaching Assistance of CS304(Software Engineering)
 
 ## Awards
 
-SUSTech Excellent Student Scholarship:
-- 2020: 1st prize
-- 2021: 1st prize
-- 2022: 1st prize
-
-SUSTech Zhixin College Scholarship:
-- 2020: Zhixin Star（致新之星）
-- 2021: Excellent Senior Monitor Prize（优秀大学长奖）, Semester Progress Prize（学期进步奖）
-- 2022: Zhixin Star（致新之星）, Semester Progress Prize（学期进步奖）
+- Guangdong Province English Writing Competition, 1st prize(2020)
+- SUSTech CSE Outstanding Teaching Assistance(2021 Spring, 2021 Fall)
+- SUSTech Outstanding Student Scholarship, 1st prize(2020, 2021, 2022)
+- SUSTech Zhixin Star Scholarship(2020, 2022)
+- China National Software Testing Competition, 2nd prize(2022)
+- SUSTech Top 10 Undergraduate Graduates(2023)
