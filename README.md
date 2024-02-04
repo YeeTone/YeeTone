@@ -1,8 +1,8 @@
 # Hello, I'm YeeTone WANG, a software code farmer
 
-YeeTone Wang is an undergraduate student at the Department of [CSE](http://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), 
-whose supervisor is [Prof. Yepang LIU](https://yepangliu.github.io/).
-He is a member of [SUSTech Software Quality Lab(SQLab)](https://sqlab-sustech.github.io/index.html).
+YeeTone Wang will be a PhD student at the Department of [Computer Science](http://cse.sustech.edu.cn/) in [ANU](https://www.anu.edu.au/), 
+whose supervisor is [Prof. Xiaoyu SUN](https://sunxiaobiu.github.io/).
+He is a member of [iSparkLab].
 His research is mainly focus on Software Engineering and Automated Testing.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeetone&label=Profile%20views&color=0e75b6&style=flat" alt="yeetone" /> </p>
 
@@ -36,26 +36,3 @@ His research is mainly focus on Software Engineering and Automated Testing.
 - Software Automated Testing
 - JVM and its Implementation
 - Web Browsers
-
-## Work Experience
-- 2019Fall-2020Spring: Public Welfare of Zhixin Communist Youth League
-- 2020Summer: Teaching Assistance of Zhixin College
-- 2020Fall-2021Spring: Senior Monitor of Zhixin Class 2002
-- 2020Fall: Maintenance of Arch Online Judge System
-- 2021Spring: Teaching Assistance of CS102A(Introduction to Computer Programming A)
-- 2021Fall: Teaching Assistance of CS107(Introduction to Computer Programming A(H))
-- 2022Spring: Teaching Assistance of CS102A(Introduction to Computer Programming A)
-- 2022Fall: Teaching Assistance of CS205(C/C++ Program Design)
-- 2022Fall: Teaching Assistance of CS309(OOAD, Object Oriented Analysis Design)
-- 2022Fall: Maintenance of JCoder Online Judge System
-- 2023Spring: Teaching Assistance of CS109(Introduction to Computer Programming)
-- 2023Spring: Teaching Assistance of CS304(Software Engineering)
-
-## Awards
-
-- Guangdong Province English Writing Competition, 1st prize(2020)
-- SUSTech CSE Outstanding Teaching Assistance(2021 Spring, 2021 Fall)
-- SUSTech Outstanding Student Scholarship, 1st prize(2020, 2021, 2022)
-- SUSTech Zhixin Star Scholarship(2020, 2022)
-- China National Software Testing Competition, 2nd prize(2022)
-- SUSTech Top 10 Undergraduate Graduates(2023)
